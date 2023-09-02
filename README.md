@@ -4,6 +4,7 @@
 
 - [Setup SIEM in Azure](https://github.com/michaelmorley1/Microsoft-Sentinel-SIEM-Lab-Failed-RDP-Mapping)
 - [Active Directory Home Lab](https://github.com/michaelmorley1/Active-Directory-Home-Lab)
+- [PowerShell File Integrity Monitor (FIM)](https://github.com/michaelmorley1/File-Integrity-Monitor-FIM-)
 
 <h2> 📄 Certifications</h2>
 -
