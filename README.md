@@ -1,5 +1,8 @@
 ![Header](https://i.imgur.com/pZzsMu0.png)
 
+I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Development
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Setup SIEM in Azure](https://github.com/michaelmorley1/Microsoft-Sentinel-SIEM-Lab-Failed-RDP-Mapping)
