@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! </h1>
+![Header](https://i.imgur.com/pZzsMu0.png)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
