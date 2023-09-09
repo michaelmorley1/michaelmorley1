@@ -1,6 +1,6 @@
 ![Header](https://i.imgur.com/pZzsMu0.png)
 
-I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Development
+I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Development, graduating in 2024.
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
