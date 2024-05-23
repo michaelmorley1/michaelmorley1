@@ -10,8 +10,11 @@ I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Dev
 - [PowerShell File Integrity Monitor (FIM)](https://github.com/michaelmorley1/File-Integrity-Monitor-FIM-)
 - [Building a Secure Website](https://github.com/michaelmorley1/secure_website)
 
+<h2>👨‍💻 DevSecOps Projects:</h2>
+- [Deploy Netflix Clone on Cloud using Jenkins](https://github.com/michaelmorley1/DevSecOps-Project-Netflix-Clone.git)
+
 <h2> 📄 Certifications</h2>
--
+- AWS Certified Solutions Architect
 
 <h2> 🤳 Connect with me:</h2>
 
