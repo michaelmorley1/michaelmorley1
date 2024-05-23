@@ -16,7 +16,8 @@ I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Dev
 
 
 <h2> 📄 Certifications</h2>
-- AWS Certified Solutions Architect
+
+- [AWS Certified Solutions Architect] (https://www.credly.com/badges/48be4728-a04e-4136-97b5-e4551bbf9873/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
