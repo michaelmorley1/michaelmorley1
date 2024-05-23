@@ -13,6 +13,7 @@ I'm currently pursuing a Postgraduate Diploma in Cyber Security and Software Dev
 <h2>👨‍💻 DevSecOps Projects:</h2>
 - [Deploy Netflix Clone on Cloud using Jenkins](https://github.com/michaelmorley1/DevSecOps-Project-Netflix-Clone.git)
 
+
 <h2> 📄 Certifications</h2>
 - AWS Certified Solutions Architect
 
