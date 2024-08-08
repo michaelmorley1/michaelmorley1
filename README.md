@@ -2,6 +2,10 @@
 
 My current role is a Senior Business Analyst. I am also pursuing a Postgraduate Diploma in Cyber Security and Software Development, which I will complete in 2024.
 
+<h2>👨‍💻 College Capstone Project:</h2>
+
+-  [Secure AI Development: Applying DevSecOps Methodologies to an AI-Powered Application](https://github.com/michaelmorley1/LLMOps.git)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Setup SIEM in Azure](https://github.com/michaelmorley1/Microsoft-Sentinel-SIEM-Lab-Failed-RDP-Mapping)
