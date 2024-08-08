@@ -1,6 +1,6 @@
 ![Header](https://i.imgur.com/pZzsMu0.png)
 
-My current role is a Senior Business Analyst. I am also pursuing a Postgraduate Diploma in Cyber Security and Software Development, which I will complete in 2024.
+My current role is a Senior Business Analyst. I am also pursuing a Postgraduate Diploma in Cyber Security and Software Development, which I will complete in Autumn 2024.
 
 <h2>👨‍💻 College Capstone Project:</h2>
 
