@@ -13,7 +13,7 @@ My current role is a Senior Business Analyst. I am also pursuing a Postgraduate 
 - [PowerShell File Integrity Monitor (FIM)](https://github.com/michaelmorley1/File-Integrity-Monitor-FIM-)
 - [Building a Secure Website](https://github.com/michaelmorley1/secure_website)
 
-<h2>👨‍💻 DevSecOps Projects:</h2>
+<h2>👨‍💻 DevOps Projects:</h2>
 
 -  [Deploy Netflix Clone on Cloud using Jenkins](https://github.com/michaelmorley1/DevSecOps-Project-Netflix-Clone.git)
 -  [ Project to Practice Terraform with AWS and create a Static website on S3 ](https://github.com/michaelmorley1/simple-terraform-project.git)
