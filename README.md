@@ -16,7 +16,8 @@ My current role is a Senior Business Analyst. I am also pursuing a Postgraduate 
 <h2>👨‍💻 DevSecOps Projects:</h2>
 
 -  [Deploy Netflix Clone on Cloud using Jenkins](https://github.com/michaelmorley1/DevSecOps-Project-Netflix-Clone.git)
--  [ Simple DevOps project to Practice Terraform with AWS and create a Static website on S3 ](https://github.com/michaelmorley1/simple-terraform-project.git)
+-  [ Project to Practice Terraform with AWS and create a Static website on S3 ](https://github.com/michaelmorley1/simple-terraform-project.git)
+-  [ Create a Game using Docker and Deploy to AWS ](https://github.com/michaelmorley1/Docker-to-AWS.git)
 
 
 <h2> 📄 Certifications</h2>
